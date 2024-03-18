@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nirav Nayi</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nirav+Nayi!;" />
+</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
@@ -32,3 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niravnayi&show_icons=true&locale=en" alt="niravnayi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niravnayi&" alt="niravnayi" /></p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+Unfazed:)">
+</h3>
