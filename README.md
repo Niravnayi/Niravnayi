@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif?url=%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif&w=750&q=75">
+<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niravnayi&label=Profile%20views&color=0e75b6&style=flat" alt="niravnayi" /> </p>
